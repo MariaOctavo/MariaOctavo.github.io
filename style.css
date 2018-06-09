@@ -1,0 +1,14 @@
+body {
+    background-image: url("http://www.kinyu-z.net/data/wallpapers/69/943139.jpg");
+}
+table, th, td {
+    border: 5px solid black;
+}
+
+th, td {
+    padding: 15px;
+}
+table#t01 {
+    width: 100%;
+    background-color: #ccff99;
+}
